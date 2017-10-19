@@ -1,0 +1,26 @@
+﻿Structural plasticity: Homeostatic rule (http://www.sciencedaily.com/releases/2013/10/131010205325.htm)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"These results show that the formation of new synapses is driven by the tendency of neurons to maintain a 'pre-set' electrical activity level.
+If the average electric activity falls below a certain threshold, the neurons begin to actively build new contact points. These are the basis
+for new synapses that deliver additional input -- the neuron firing rate increases. This also works the other way round: as soon as the activity 
+level exceeds an upper limit, the number of synaptic connections is reduced to prevent any overexcitation -- the neuron firing rate falls. Similar 
+forms of homeostasis frequently occur in nature, for example in the regulation of body temperature and blood sugar levels.
+
+However, Markus Butz stresses that this does not work without a certain minimal excitation of the neurons: "A neuron that no longer receives any 
+stimuli loses even more synapses and will die off after some time. We must take this restriction into account if we want the results of our simulations 
+to agree with observations." Using the visual cortex as an example, the neuroscientists have studied the principles according to which neurons form new 
+connections and abandon existing synapses. In this region of the brain, about 10 % of the synapses are continuously regenerated. When the retina is 
+damaged, this percentage increases even further."
+
+
+Article: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003259
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+"If the average electrical activity of a neuron exceeds some maximum level, it will withdraw dendritic spines
+and retract neurite branches [65], which may reduce connectivity and hence activity. If activity becomes lower, the neuron will generate
+vacant synaptic elements [66], increasing connectivity and activity. However, if activity comes below some minimum level, outgrowth and
+synapse formation will be halted"
+
+
+http://www.ncbi.nlm.nih.gov/books/NBK21521/
+https://en.wikipedia.org/wiki/Action_potential
